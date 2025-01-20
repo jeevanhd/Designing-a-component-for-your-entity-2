@@ -1,26 +1,24 @@
 Assume you are developing an ecommers platfrom you need to display all of your products on home page.Now you need to prepare an product cart to display the details of the product.
 
-
 ### Instructions
 
 - you need to write the component code inside productcard.jsx file located inside cart compoennt.
 - Name of the component should be "Productcard".
 
-card should display:- 
+card should display:-
+
 - product image
-- product name 
+- product name
 - price
 - View product button
 
 - you see to prepare seperate component for the View product button.
 - you need to import the button compoent in the product card and use the button compoent inside productcard.
-- you need to write the View product button component inside the button.jsx file inside component folder. 
+- you need to write the View product button component inside the button.jsx file inside component folder.
 
 **Note:-** make the details static. you need to create variables for each field and assign dummy static details. And display the data using that variables.
 
 Please feel free to style the component as you wish.
-
-
 
 # **How to Fork and Set Up Your Repository**
 
